@@ -96,10 +96,6 @@ Downloadable AQI PDF report
 
 🚀 How to Run the Project
 
-Clone the repository:
-
-git clone https://github.com/your-username/Smart-AQI-Prediction-System.git
-
 
 Install required libraries:
 
